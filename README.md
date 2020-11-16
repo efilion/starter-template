@@ -1,0 +1,1 @@
+Work in progress template to be used to quickly bootstrap an Angular frontend, Python microservice, and MongoDB database to be deployed to Google Cloud Platform using continuous integration/deployment.
